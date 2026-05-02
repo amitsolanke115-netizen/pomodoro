@@ -32,5 +32,7 @@ This app helps reduce distraction and improves focus using the Pomodoro techniqu
 ## 👤 Author
 Amit Solanke  
 GitHub: https://github.com/amitsolanke115-netize\
-app screenshot.jpeg
+## 📸 App Screenshot
+
+![Pomodoro App](app screenshot.jpeg)
 
