@@ -34,5 +34,5 @@ Amit Solanke
 GitHub: https://github.com/amitsolanke115-netize\
 ## 📸 App Screenshot
 
-![Pomodoro App](app screenshot.jpeg)
+(app screenshot.jpeg)
 
